@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SPK1997
+- 🙏 Namaste
 - 👀 I’m mostly interested in frontend software engineering but occasionally dabble with the backend stuffs 
 - 📫 Reach me at sspwebdev71@gmail.com
 
